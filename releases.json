@@ -5,5 +5,29 @@
 			"lib/ok-to-truthy.js",
 			"lib/same-to-deep-equal.js"
 		]
+	}, {
+		"version": "0.15.0",
+		"transforms": [
+		]
+	}, {
+		"version": "0.16.0",
+		"transforms": [
+		]
+	}, {
+		"version": "1.0.0",
+		"transforms": [
+		]
+	}, {
+		"version": "2.0.0",
+		"transforms": [
+		]
+	}, {
+		"version": "3.0.0",
+		"transforms": [
+		]
+	}, {
+		"version": "4.0.0",
+		"transforms": [
+		]
 	}
 ]
